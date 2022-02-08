@@ -1,5 +1,5 @@
 
-# Projeto API de Blogs!
+# Projeto API de Blogs! :bookmark_tabs:
 
 Nesse projeto, o objetivo era desenvolver um back-end usando `ORM` com o pacote `sequelize` do `npm`, e ser capaz de:
  - Criar e associar tabelas usando `models` do `sequelize`
